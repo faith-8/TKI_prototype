@@ -1,0 +1,2 @@
+Model,Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC,ChemblID
+Random Forest Classifier,0.8539,0.8894,0.5385,0.8235,0.6512,0.5638,0.5842,CHEMBL2742
